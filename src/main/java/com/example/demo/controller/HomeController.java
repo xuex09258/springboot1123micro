@@ -14,7 +14,7 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String index() {
-		return "<h1>hello spring  !</h1>";
+		return "<h1>hello spring security !</h1>";
 	}
 	
 	
